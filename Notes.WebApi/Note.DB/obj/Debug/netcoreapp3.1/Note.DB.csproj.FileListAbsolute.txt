@@ -1,0 +1,12 @@
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.csprojAssemblyReference.cache
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.AssemblyInfoInputs.cache
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.AssemblyInfo.cs
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.csproj.CoreCompileInputs.cache
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.deps.json
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.runtimeconfig.json
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.runtimeconfig.dev.json
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.dll
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\bin\Debug\netcoreapp3.1\Note.DB.pdb
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.dll
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.pdb
+C:\Users\28cm\notes.frontend\Notes.WebApi\Note.DB\obj\Debug\netcoreapp3.1\Note.DB.genruntimeconfig.cache
